@@ -40,7 +40,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "serve -s build",
     "prersync": "npm run build",
     "rsync": "rsync -ravz build /tmp/html/",
     "start": "react-scripts start",
