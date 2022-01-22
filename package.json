@@ -2,7 +2,7 @@
   "name": "mqtt-monitor",
   "version": "0.1.1",
   "private": true,
-  "homepage": "http://jack-mad.github.io/mqtt",
+  "homepage": ".",
   "dependencies": {
     "@material-ui/core": "^4.6.0",
     "@material-ui/icons": "^4.5.1",
